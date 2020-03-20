@@ -1,5 +1,8 @@
 # ToDo APP
 
+[![MIT license](https://img.shields.io/github/license/jeeva2812/todo-react-native-app)](LICENSE)
+[![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)](https://github.com/jeeva2812/todo-react-native-app)
+
 A basic Todo app
 
 ## Table of Contents
