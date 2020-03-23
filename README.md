@@ -27,7 +27,7 @@ You need to install node.js and expo cli to work with this source code.
 
 ## Improvements
 
- * Swipe to remove a todo item. [Link](https://github.com/glepur/react-native-swipe-gestures)
+- [ ] Swipe to remove a todo item. [Link](https://github.com/glepur/react-native-swipe-gestures)
  
 ## References
  
