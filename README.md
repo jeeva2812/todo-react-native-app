@@ -10,8 +10,8 @@ A basic Todo app
 * [Prerequisites](#prerequisites)
 * [Framework](#prerequisites)
 * [Build](#build)
-* [Improvements](#libraries)
-* [References](#reference)
+* [Improvements](#improvements)
+* [References](#references)
 
 ## Prerequisites
 
